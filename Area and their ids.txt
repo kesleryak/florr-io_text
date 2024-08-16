@@ -1,0 +1,29 @@
+1: Centralia Fields 1
+2: Centralia
+3: Centralia Fields 2
+4: Centralia Fields 3
+5: Centralia Fields 4
+6: Centralia Fields 5
+7: Centralia Fields 6
+8: Centralia Fields 7
+9: South Desert 1
+10: South Desert 2
+11: South Desert 3
+12: South Desert 4
+13: South Desert 5
+14: Ellne Pass
+15: Centralia Beach
+16: East Waters 1
+17: East Waters 2
+18: East Waters 3
+19: East Waters 4
+20: Crab Kingdom
+21: Jellyfish Fields
+22: Leech Zone
+23: Starfish Zone
+24: Ellne
+25: Ellne Jungle 1
+26: Ellne Jungle 2
+27: Ellne Jungle 3
+28: Ellne Jungle 4
+29: Ellne Jungle 5
